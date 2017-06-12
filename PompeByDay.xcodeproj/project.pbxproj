@@ -14,6 +14,7 @@
 		93005D321EEEC30800EF0876 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93005D301EEEC30800EF0876 /* LaunchScreen.storyboard */; };
 		93005D3D1EEEC30800EF0876 /* PompeByDayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93005D3C1EEEC30800EF0876 /* PompeByDayTests.swift */; };
 		93005D481EEEC30800EF0876 /* PompeByDayUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93005D471EEEC30800EF0876 /* PompeByDayUITests.swift */; };
+		93005D561EEEC6C400EF0876 /* Branch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93005D551EEEC6C400EF0876 /* Branch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		93005D431EEEC30800EF0876 /* PompeByDayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PompeByDayUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		93005D471EEEC30800EF0876 /* PompeByDayUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PompeByDayUITests.swift; sourceTree = "<group>"; };
 		93005D491EEEC30800EF0876 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93005D551EEEC6C400EF0876 /* Branch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Branch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				93005D271EEEC30800EF0876 /* AppDelegate.swift */,
 				93005D291EEEC30800EF0876 /* ViewController.swift */,
 				93005D2B1EEEC30800EF0876 /* Main.storyboard */,
+				93005D551EEEC6C400EF0876 /* Branch.swift */,
 				93005D2E1EEEC30800EF0876 /* Assets.xcassets */,
 				93005D301EEEC30800EF0876 /* LaunchScreen.storyboard */,
 				93005D331EEEC30800EF0876 /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93005D2A1EEEC30800EF0876 /* ViewController.swift in Sources */,
+				93005D561EEEC6C400EF0876 /* Branch.swift in Sources */,
 				93005D281EEEC30800EF0876 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
