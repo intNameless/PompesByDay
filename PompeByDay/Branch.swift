@@ -9,6 +9,6 @@
 import Foundation
 
 class Personne{
-    
+    var nom:String
     
 }
